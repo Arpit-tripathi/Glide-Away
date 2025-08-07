@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "name": "Agra",
+    "state": "Uttar Pradesh",
+    "popular_for": "Taj Mahal"
+  },
+  {
+    "id": 2,
+    "name": "Jaipur",
+    "state": "Rajasthan",
+    "popular_for": "Forts and Palaces"
+  },
+  {
+    "id": 3,
+    "name": "Goa",
+    "state": "Goa",
+    "popular_for": "Beaches and Nightlife"
+  },
+  {
+    "id": 4,
+    "name": "Manali",
+    "state": "Himachal Pradesh",
+    "popular_for": "Snowfall and Adventure Sports"
+  },
+  {
+    "id": 5,
+    "name": "Kerala Backwaters",
+    "state": "Kerala",
+    "popular_for": "Houseboats and Scenery"
+  },
+  {
+    "id": 6,
+    "name": "Varanasi",
+    "state": "Uttar Pradesh",
+    "popular_for": "Ghats and Spiritual Experience"
+  },
+  {
+    "id": 7,
+    "name": "Rishikesh",
+    "state": "Uttarakhand",
+    "popular_for": "Yoga and River Rafting"
+  },
+  {
+    "id": 8,
+    "name": "Mumbai",
+    "state": "Maharashtra",
+    "popular_for": "Bollywood and Gateway of India"
+  },
+  {
+    "id": 9,
+    "name": "Leh",
+    "state": "Ladakh",
+    "popular_for": "Monasteries and Scenic Drives"
+  },
+  {
+    "id": 10,
+    "name": "Darjeeling",
+    "state": "West Bengal",
+    "popular_for": "Tea Gardens and Toy Train"
+  },
+  {
+    "id": 11,
+    "name": "Kolkata",
+    "state": "West Bengal",
+    "popular_for": "Culture and Colonial Architecture"
+  },
+  {
+    "id": 12,
+    "name": "Udaipur",
+    "state": "Rajasthan",
+    "popular_for": "Lakes and Palaces"
+  },
+  {
+    "id": 13,
+    "name": "Andaman Islands",
+    "state": "Andaman and Nicobar Islands",
+    "popular_for": "Snorkeling and Beaches"
+  },
+  {
+    "id": 14,
+    "name": "Mysore",
+    "state": "Karnataka",
+    "popular_for": "Palace and Dasara Festival"
+  },
+  {
+    "id": 15,
+    "name": "Hampi",
+    "state": "Karnataka",
+    "popular_for": "Ancient Ruins and Temples"
+  },
+  {
+    "id": 16,
+    "name": "Amritsar",
+    "state": "Punjab",
+    "popular_for": "Golden Temple and Wagah Border"
+  },
+  {
+    "id": 17,
+    "name": "Shillong",
+    "state": "Meghalaya",
+    "popular_for": "Waterfalls and Hills"
+  },
+  {
+    "id": 18,
+    "name": "Chennai",
+    "state": "Tamil Nadu",
+    "popular_for": "Marina Beach and Temples"
+  },
+  {
+    "id": 19,
+    "name": "Ranthambore",
+    "state": "Rajasthan",
+    "popular_for": "Tiger Reserve and Safari"
+  },
+  {
+    "id": 20,
+    "name": "Pondicherry",
+    "state": "Puducherry",
+    "popular_for": "French Architecture and Beaches"
+  },
+  {
+    "id": 21,
+    "name": "delhi",
+    "state": "delhi",
+    "popular_for": "capital of india"
+  }
+]
