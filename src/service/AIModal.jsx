@@ -4,6 +4,7 @@
 import { GoogleGenAI } from "@google/genai";
 
 async function sendMessage(prompt) {
+  
   const ai = new GoogleGenAI({
     apiKey: import.meta.env.VITE_GEMINI_API_KEY,
   });
