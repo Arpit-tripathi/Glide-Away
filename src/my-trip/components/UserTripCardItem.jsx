@@ -1,9 +1,9 @@
 import React from "react";
 import { Link } from "react-router";
 
-function UserTripCardItem({ trip,id }) {
+function UserTripCardItem({ trip }) {
   return (
-    <Link to={"/view-trip/" + id} style={{color:"black"}}>
+    <Link to={"/view-trip/" + trip?.id} style={{color:"black"}}>
       <div className="hover:scale-105 transitio">
         <img
           src="/planeH.png"
