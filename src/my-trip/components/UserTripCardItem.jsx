@@ -1,10 +1,10 @@
 import React from "react";
 import { Link } from "react-router";
 
-function UserTripCardItem({ trip }) {
+function UserTripCardItem({ trip,id }) {
   return (
-    <Link to={"/view-trip/" + trip?.id} style={{color:"black"}}>
-      <div className="hover:scale-105 transition-all ">
+    <Link to={"/view-trip/" + id} style={{color:"black"}}>
+      <div className="hover:scale-105 transitio">
         <img
           src="/planeH.png"
           alt="trips"
