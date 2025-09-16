@@ -21,7 +21,7 @@ function InfoSection({ trip }) {
   return (
     <div>
       <img
-        src="/public/planeH.png"
+        src="/planeH.png"
         alt="plane"
         className="h-[340px] w-full object-cover rounded-xl"
       />

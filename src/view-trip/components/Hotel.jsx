@@ -17,7 +17,7 @@ function Hotel({ trip }) {
           >
             <div className="hover:scale-105 transition-all cursor-pointer ">
               <img
-                src="/public/planeH.png"
+                src="/planeH.png"
                 alt="plane"
                 className="rounded-xl"
                 

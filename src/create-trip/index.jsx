@@ -55,7 +55,7 @@ function CreateTrip() {
     try {
       return JSON.parse(jsonString);
     } catch (e) {
-      console.error("Failed to parse extracted JSON:", jsonString);
+      // console.error("Failed to parse extracted JSON:", jsonString);
       return null;
     }
   };
@@ -88,7 +88,7 @@ function CreateTrip() {
     console.log(FINAL_PROMPT);
     try {
       const result = await main.sendMessage(FINAL_PROMPT);
-      console.log("Raw AI Response:", result);
+      // console.log("Raw AI Response:", result);
 
       const parsedTrip = extractJSON(result);
       if (!parsedTrip) {
@@ -138,7 +138,7 @@ function CreateTrip() {
         },
       })
       .then((resp) => {
-        console.log("User Info:", resp.data);
+        // console.log("User Info:", resp.data);
         localStorage.setItem("user", JSON.stringify(resp.data));
         setOpenDialoge(false);
         toast("Login successfully 🚀");
