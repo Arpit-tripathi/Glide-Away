@@ -85,7 +85,7 @@ function CreateTrip() {
       .replace("{traveler}", formData.Companions)
       .replace("{budget}", formData.budget);
 
-    console.log(FINAL_PROMPT);
+    // console.log(FINAL_PROMPT);
     try {
       const result = await main.sendMessage(FINAL_PROMPT);
       // console.log("Raw AI Response:", result);
